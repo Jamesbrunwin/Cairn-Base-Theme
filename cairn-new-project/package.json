@@ -1,0 +1,28 @@
+{
+  "name": "wp-starter",
+  "private": true,
+  "author": "Cairn Agency",
+  "description": "Cairn Agency's theme starter kit",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "James Brunwin",
+      "email": "brunwwwin@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@git.jamesbrunwin.co.uk:one/wp-starter.git"
+  },
+  "dependencies": {
+    "grunt": "~0.4.4",
+    "grunt-autoprefixer": "^0.7.3",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-concat": "0.5.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-watch": "0.6.0",
+    "grunt-contrib-sass": "~0.8.1",
+    "grunt-sass": "~0.16.1",
+    "grunt-contrib-connect": "~0.10.0"
+  }
+}
